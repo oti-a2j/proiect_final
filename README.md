@@ -20,11 +20,9 @@ Bucati de cod din alte proiecte:
 
 
 Screenshot-uri:
-Inline-style: 
-![alt text](https://github.com/oti-a2j/proiect_final/1.png "Screenshot1")
 
-Inline-style: 
-![alt text](https://github.com/oti-a2j/proiect_final/2.png "Screenshot2")
+[](Screenshot/1.png)
 
-Inline-style: 
-![alt text](https://github.com/oti-a2j/proiect_final/3.png "Screenshot3")
+[](Screenshot/2.png)
+
+[](Screenshot/3.png)
